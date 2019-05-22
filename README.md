@@ -21,10 +21,7 @@
 # Quick Version
 ## 100DaysOfCode Log - Round 3 - Alexander Kallaway
 The log of my #100DaysOfCode (to keep separate from main repo and let others fork a clean version).
-
 Started on July 17, Monday, 2017.
-
-## Log
 
 ### R3D1 
 Today I've started the 3rd API project from @freeCodeCamp -> http://glitch.com/edit/#!/collapse-url + started configuring mongodb
