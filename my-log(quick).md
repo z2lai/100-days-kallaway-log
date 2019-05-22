@@ -1,4 +1,4 @@
-# 100DaysOfCode Log - Round 1 - Zheng Lai
+# 100DaysOfCode Log - Zheng Lai - Round 1
 The log of my #100DaysOfCode
 Started on May 20, Monday, 2019.
 
